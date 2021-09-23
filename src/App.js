@@ -6,7 +6,7 @@ import Another from './components/Another';
 function App() {
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Switch>
         <Route to="/" exact>
           <Home/>
@@ -15,7 +15,7 @@ function App() {
           <Another/>
         </Route>
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
