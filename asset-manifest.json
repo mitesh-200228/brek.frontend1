@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/brek.frontend1/static/css/main.f7dbab88.chunk.css",
+    "main.js": "/brek.frontend1/static/js/main.272c132c.chunk.js",
+    "main.js.map": "/brek.frontend1/static/js/main.272c132c.chunk.js.map",
+    "runtime-main.js": "/brek.frontend1/static/js/runtime-main.f84fb636.js",
+    "runtime-main.js.map": "/brek.frontend1/static/js/runtime-main.f84fb636.js.map",
+    "static/css/2.9c6b934b.chunk.css": "/brek.frontend1/static/css/2.9c6b934b.chunk.css",
+    "static/js/2.47f3ea30.chunk.js": "/brek.frontend1/static/js/2.47f3ea30.chunk.js",
+    "static/js/2.47f3ea30.chunk.js.map": "/brek.frontend1/static/js/2.47f3ea30.chunk.js.map",
+    "static/js/3.6ae917a9.chunk.js": "/brek.frontend1/static/js/3.6ae917a9.chunk.js",
+    "static/js/3.6ae917a9.chunk.js.map": "/brek.frontend1/static/js/3.6ae917a9.chunk.js.map",
+    "index.html": "/brek.frontend1/index.html",
+    "static/css/2.9c6b934b.chunk.css.map": "/brek.frontend1/static/css/2.9c6b934b.chunk.css.map",
+    "static/css/main.f7dbab88.chunk.css.map": "/brek.frontend1/static/css/main.f7dbab88.chunk.css.map",
+    "static/js/2.47f3ea30.chunk.js.LICENSE.txt": "/brek.frontend1/static/js/2.47f3ea30.chunk.js.LICENSE.txt",
+    "static/media/logo_vector.02eb8c3d.png": "/brek.frontend1/static/media/logo_vector.02eb8c3d.png",
+    "static/media/home.css": "/brek.frontend1/static/media/slide4.fda452ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f84fb636.js",
+    "static/css/2.9c6b934b.chunk.css",
+    "static/js/2.47f3ea30.chunk.js",
+    "static/css/main.f7dbab88.chunk.css",
+    "static/js/main.272c132c.chunk.js"
+  ]
+}
