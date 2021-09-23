@@ -1,7 +1,6 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "proxy": "https://brekbackend.azurewebsites.net",
   "private": true,
   "dependencies": {
     "@chakra-ui/button": "^1.4.2",
