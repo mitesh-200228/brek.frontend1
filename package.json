@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://mitesh-200228.github.io",
+  "homepage":"https://mitesh-200228.github.io/brek.frontend1",
   "dependencies": {
     "@chakra-ui/button": "^1.4.2",
     "@chakra-ui/popover": "^1.8.3",
